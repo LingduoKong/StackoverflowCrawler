@@ -4,9 +4,9 @@
 
 - First make sure mongodb intalled
 - $ scarpy crawl first_page
-* this one extracts all elements of the first question page.
-⋅⋅*  All are stored in the stackoverflow(db) questions(collection)
+1. this one extracts all elements of the first question page.
+2. All are stored in the stackoverflow(db) questions(collection)
 - $ scarpy crawl questions
-⋅⋅* collect questions from top 10 pages
-⋅⋅* try to change the rules of stack_crawler to get more data
+1. collect questions from top 10 pages
+2. try to change the rules of stack_crawler to get more data
  
